@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "off",
+    "editor.defaultFormatter": "GitHub.codespaces",
+    "chat.agent.maxRequests": 5,
+    "editor.fontFamily": "'Droid Sans Mono', monospac",
+    "editor.wordWrap": "bounded"
+}
